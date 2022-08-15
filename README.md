@@ -4,7 +4,7 @@ I am Max, a SENSE CDT PhD student in geophysics at the British Antartic Survey a
 
 Pronouns: He/Him.
 
- From Germany living in the United Kingdom.
+ I am from Germany living in the United Kingdom.
  
  
 

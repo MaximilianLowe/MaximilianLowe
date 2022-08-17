@@ -1,6 +1,6 @@
 Hello friend 👋🏽 
 
-I am Max, a SENSE CDT PhD student in geophysics at the British Antartic Survey and the University of Edinburgh. I work on  lithospheric properties and surface heat flow in Antarctica using mainly gravity and magnetic data.
+I am Max, a SENSE CDT PhD student in geophysics at the British Antarctic Survey and the University of Edinburgh. I work on  lithospheric properties and surface heat flow in Antarctica using mainly gravity and magnetic data.
 
 Pronouns: He/Him.
 

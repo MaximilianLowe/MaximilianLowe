@@ -1,6 +1,6 @@
 
 
-Hi I am Max (He/Him), a SENSE CDT PhD student in geophysics at the British Antarctic Survey and the University of Edinburgh. I work on  lithospheric properties and surface heat flow in Antarctica using mainly gravity and magnetic data. Read more about my work at: https://www.bas.ac.uk/profile/maxwe32/
+Hi I am Max (He/Him), a SENSE CDT PhD student in geophysics at the British Antarctic Survey and the University of Edinburgh. I work on crustal properties and subglacial heat flow in Antarctica using mainly gravity and magnetic data. Read more about my work at: https://www.bas.ac.uk/profile/maxwe32/
 
  
  

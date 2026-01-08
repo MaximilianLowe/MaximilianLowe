@@ -1,8 +1,7 @@
-Hello friends, I am Max (He/Him), a PostDoc in airborne geophysics at kiel University and I am an "Honorary Researcher" at the British Antarctic Survey. I am mainly working on gravity and magnetic data processing and joint inversion to investigate curstal and lithospheric structues. 
+Hi, I am Max, PostDoc in airborne geophysics at Kiel University and a British Antarctica Survey Honorary Researcher. I am Co-Chair of the SCAR INSTANT sub-committee Antarctic Geological Boundary Conditions (ABC). 
+My main research interests are 3D lithospheric modeling with satellite and airborne gravity & magnetic data, Solid Earth – Cryosphere interactions, heat flow in polar regions, tectonophysics, and probabilistic modeling and inversion.
 
-I recently finished a PostDoc at the British Antarctic survey working on aiborne gravity and magnetic data, which was for the first time measured by an large UAV in Antarctica. I did my PhD at the British Antarctic Survey in Cambridge and the University of Edinburgh. Read more about my work at: https://www.bas.ac.uk/profile/maxwe32/
-
- 
+Previous affiliations: British Antarctic Survey (Cambridge), University of Edinburgh, SENSE – Center for Satellite Data in Environmental Science. 
 
 
 
